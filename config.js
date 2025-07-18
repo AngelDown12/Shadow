@@ -43,7 +43,7 @@ global.miniurl = 'https://files.catbox.moe/5k7vwl.jpg'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.group = 'https://chat.whatsapp.com/GYOUzzKUAAq4aYgoa0pbzq?mode=r_c'
-global.canal = 'https://whatsapp.com/channel/0029VbAj2nTCcW4ufY9dQ01N'
+global.canal = 'https://whatsapp.com/channel/0029VbAljWiK5cDEavnj9U3z'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
