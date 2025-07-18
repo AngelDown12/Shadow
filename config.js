@@ -37,8 +37,8 @@ global.baileys = '@whiskeysockets/baileys'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.catalogo = 'https://files.catbox.moe/5k7vwl.jpg'
-global.miniurl = 'https://files.catbox.moe/5k7vwl.jpg'
+global.catalogo = 'https://files.catbox.moe/iydxk1.jpg'
+global.miniurl = 'https://files.catbox.moe/iydxk1.jpg'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
