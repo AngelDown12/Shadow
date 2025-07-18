@@ -26,13 +26,13 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `𝐁𝐔𝐔 - 𝐁𝐎𝐓 🔮`
-global.author = '{\n "bot": {\n   "name": "𝐁𝐔𝐔 - 𝐁𝐎𝐓",\n     "author": "𝐂𝐫𝐢𝐬𝐭𝐢𝐚𝐧",\n   "status_bot": "active"\n }\n}'
-global.wait = '𝐁𝐔𝐔 - 𝐁𝐎𝐓 🔮'
-global.botname = '𝐁𝐔𝐔 - 𝐁𝐎𝐓 🔮'
-global.textbot = `𝐁𝐔𝐔 𝐁𝐎𝐓 🔮`
-global.listo = '𝐋𝐢𝐬𝐭𝐨 🔮'
-global.namechannel = '𝐁𝐔𝐔 𝐁𝐎𝐓 🔮'
+global.packname = `𝐒𝐡𝐚𝐝𝐨𝐰 - 𝐛𝐨𝐭 🍷`
+global.author = '{\n "bot": {\n   "name": "𝐒𝐡𝐚𝐝𝐨𝐰 - 𝐛𝐨𝐭",\n     "author": "𝐂𝐫𝐢𝐬𝐭𝐢𝐚𝐧",\n   "status_bot": "active"\n }\n}'
+global.wait = '𝐒𝐡𝐚𝐝𝐨𝐰 - 𝐛𝐨𝐭 🍷'
+global.botname = '𝐒𝐡𝐚𝐝𝐨𝐰 - 𝐛𝐨𝐭 🍷'
+global.textbot = `𝐒𝐡𝐚𝐝𝐨𝐰 𝐛𝐨𝐭 🍷`
+global.listo = '𝐋𝐢𝐬𝐭𝐨 🍷'
+global.namechannel = '𝐒𝐡𝐚𝐝𝐨𝐰 𝐛𝐨𝐭 🍷'
 global.baileys = '@whiskeysockets/baileys'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
